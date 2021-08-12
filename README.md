@@ -1,4 +1,4 @@
 # PySimpleGUI
 
 - Tutorials and practicing PySimpleGUI
-- PySimpleGUI 
+- PySimpleGUI 연습
