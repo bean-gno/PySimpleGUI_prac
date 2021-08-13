@@ -3,3 +3,4 @@ pysimplegui
 PyQt5
 pyinstaller
 opencv-python
+matplotlib
