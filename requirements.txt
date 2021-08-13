@@ -1,6 +1,7 @@
 numpy
-pysimplegui
+matplotlib
 PyQt5
+pysimplegui
+PyWin32  # prerequisite for pyinstaller for windows
 pyinstaller
 opencv-python
-matplotlib
