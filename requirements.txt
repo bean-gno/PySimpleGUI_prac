@@ -1,5 +1,2 @@
-pysimplegui 
-matplotlib 
-numpy 
-opencv-python
-cx_Freeze
+PyQt5
+pyinstaller
