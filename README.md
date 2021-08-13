@@ -7,16 +7,16 @@
                      PySimpleGUI로 matplotlib을 이용한 그래프를 embed한 예제.
 5. psg_opencv : A program that applies selected filters to webcam video using OpenCV  
                 OpenCV를 이용하여 사용자의 웹캠 화면에 각종 filter들을 적용하는 프로그램
-
+---
 ### Requirements other than in requirements.txt
 - Python 3
 - Pip
-
+---
 ### How to install
 ### 설치 방법
 - clone git, and run build.cmd on shell  
   git clone한 후에 cmd 혹은 터미널에 build.cmd
-
+---
 ### How to run
 ### 실행 방법
 - Run \*.exe in dist folder  
