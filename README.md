@@ -4,4 +4,4 @@
 3. psg_opencv : OpenCV를 이용하여 사용자의 웹캠 화면에 각종 filter들을 적용하는 프로그램
 
 설치 방법
-git clone한 후에 cmd 혹은 터미널에 build.cmd 
+- git clone한 후에 cmd 혹은 터미널에 build.cmd 
