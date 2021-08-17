@@ -1,7 +1,4 @@
 python -m pip install -Ur requirements.txt
-@REM cd "./PSG_img_viewer" &&
-pyinstaller img_viewer.py
-@REM cd "../PSG_Matplotlib" &&
-pyinstaller psg_matplotlib.py
-@REM cd "../PSG_OpenCV" &&
-pyinstaller psg_opencv.py
+pyinstaller --onefile --windowed img_viewer.py
+pyinstaller --onefile --windowed psg_matplotlib.py
+pyinstaller --onefile --windowed psg_opencv.py
